@@ -1,4 +1,4 @@
-package org.openguardrail.errorframework;
+package io.openguardrail.errorframework;
 
 import java.io.Serializable;
 
